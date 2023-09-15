@@ -76,12 +76,6 @@ def map_license_string(
     return license
 
 
-class Payload(BaseModel):
-    state: str
-
-
-
-
 # UPDATE licenses in database from files
 def update_db_from_files():
     '''
@@ -91,17 +85,21 @@ def update_db_from_files():
     '''
     # Connect to the database
     collection = connect_db()
-   # iterate all files in licenses folder
-    for file in os.listdir("../licenses/"):
-        with open(f"../{file}", "r") as f:
+    # iterate all files in licenses folder
+    N=0
+    for file in os.listdir("./licenses/"):
+        with open(f"./licenses/{file}", "r") as f:
             license = json.load(f)
         # Create a License object
         license_object = License(**license)
         # Update the license in the database
         collection.update_one({"licenseId": license_object.licenseId}, {"$set": license_object.model_dump(mode="json")})
+        N+=1
 
-    return
+    return N
 
+class Payload(BaseModel):
+    state: str
 
 # Webhooks 
 @app.post("/webhooks")
@@ -118,10 +116,12 @@ def webhooks(
         origin.pull()
 
         # Update the database
+        N = update_db_from_files()
 
-
-
-        return {"message": "Database updated"}
+        return {
+            "status": "success",
+            "message": f"{N} documents updated in database"
+            }
     else:
         return payload
     
