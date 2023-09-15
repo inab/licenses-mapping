@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pydantic = "*"
 fastapi = "*"
+gitpython = "*"
+pymongo = "*"
 
 [dev-packages]
 

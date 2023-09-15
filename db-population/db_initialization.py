@@ -4,6 +4,7 @@ import os
 from pydantic import BaseModel, AnyUrl
 from typing import Deque, List, Optional, Tuple
 from pymongo import MongoClient
+from git import Repo
 
 
 # Each license has a JSON file with the following structure:
@@ -92,6 +93,21 @@ def populate_db_from_files():
 
     return
 
+
+def modified_files(path: str):
+    '''
+    This function returns a list of the files that have been modified in the last commit
+    '''
+    repo = Repo(path)
+    # Get the last commit
+    last_commit = repo.head.commit
+    prev_commits = [c for c in repo.iter_commits(all=True, max_count=2)]
+    pre_last_commit = prev_commits[1]
+    # Get the files that have been modified in the last commit
+    modified_files = [item.a_path for item in pre_last_commit.diff(None)]
+    return modified_files
+
+
 # UPDATE licenses in database from files
 def update_db_from_files():
     '''
@@ -103,10 +119,10 @@ def update_db_from_files():
     db = client['licenses']
     collection = db['licenses']
     # Open each file and populate the database
-    # TODO: select only licenses that have changed in the last commit
+    mod_files = modified_files("../licenses/")
 
     for file in os.listdir("../licenses/"):
-        with open(f"../licenses/{file}", "r") as f:
+        with open(f"../{file}", "r") as f:
             license = json.load(f)
         # Create a License object
         license_object = License(**license)
@@ -120,4 +136,5 @@ def update_db_from_files():
 
 if __name__ == "__main__":
     #create_files()
-    populate_files_from_spreadsheet()
+    #populate_files_from_spreadsheet()
+    print(modified_files("../"))
