@@ -4,7 +4,7 @@ stages:
 update:
   stage: webhook
   script:
-    - curl -request POST -d { "state":"updated" } https://396e-84-88-188-229.ngrok-free.app/webhooks
+    - curl -d { "state":"updated" } -X POST https://396e-84-88-188-229.ngrok-free.app/webhooks
   rules:
     - changes:
         - licenses/*
