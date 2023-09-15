@@ -10,5 +10,5 @@ update:
     - 'eval "$DEPLOY_CURL_COMMAND"'
   rules:
     - changes:
-        - licenses/*
+      - licenses/*
       when: on_success
