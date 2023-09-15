@@ -3,6 +3,10 @@ from utils import connect_db, License
 from pydantic import BaseModel, AnyUrl
 from typing import Union
 from typing_extensions import Annotated
+from git import Repo
+import json
+import os
+
 
 app = FastAPI(
     title="License Mapping API",
@@ -70,3 +74,54 @@ def map_license_string(
     license = collection.find_one({ "$or": [ { "licenseId": q }, { "synonyms": q } ] }, {"_id": 0, "reference": 1, "licenseId":1, "name":1, "isOsiApproved": 1, "isDeprecatedLcenseId":1, "seeAlso":1 } )
 
     return license
+
+
+class Payload(BaseModel):
+    state: str
+
+
+
+
+# UPDATE licenses in database from files
+def update_db_from_files():
+    '''
+    This function updates the database with the licenses in the JSON files
+    It uses "update" instead of "insert" so it can be used to update an existing database
+    🚧 NOT TESTED YET
+    '''
+    # Connect to the database
+    collection = connect_db()
+   # iterate all files in licenses folder
+    for file in os.listdir("../licenses/"):
+        with open(f"../{file}", "r") as f:
+            license = json.load(f)
+        # Create a License object
+        license_object = License(**license)
+        # Update the license in the database
+        collection.update_one({"licenseId": license_object.licenseId}, {"$set": license_object.model_dump(mode="json")})
+
+    return
+
+
+# Webhooks 
+@app.post("/webhooks")
+def webhooks(
+    payload: Union[Annotated[Payload, "The payload of the webhook"], BaseModel]
+    ):
+    '''
+    This function receives a webhook
+    '''
+    if payload.state == 'updated':
+        # Pull changes from the remote repository
+        repo = Repo("./")
+        origin = repo.remotes.origin
+        origin.pull()
+
+        # Update the database
+
+
+
+        return {"message": "Database updated"}
+    else:
+        return payload
+    

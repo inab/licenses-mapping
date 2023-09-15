@@ -95,45 +95,6 @@ def populate_db_from_files():
     return
 
 
-def modified_files(path: str) -> List[str]:
-    '''
-    This function returns a list of the files that have been modified in the last commit
-    '''
-    repo = Repo(path)
-    # Get the last commit    
-    prev_commits = [c for c in repo.iter_commits(all=True, max_count=2)]
-    pre_last_commit = prev_commits[1]
-    # Get the files that have been modified in the last commit
-    modified_files = [item.a_path for item in pre_last_commit.diff(None)]
-    return modified_files
-
-
-# UPDATE licenses in database from files
-def update_db_from_files():
-    '''
-    This function updates the database with the licenses in the JSON files
-    It uses "update" instead of "insert" so it can be used to update an existing database
-    🚧 NOT TESTED YET
-    '''
-    # Connect to the database
-    client = MongoClient('localhost', 27017)
-    db = client['licenses']
-    collection = db['licenses']
-    # Open each file and populate the database
-    mod_files = modified_files("../")
-    # filter files in ../licenses
-    mod_files = [f for f in mod_files if f.startswith("licenses/")]
-    print(f"{len(mod_files)} files modified")
-    for file in mod_files:
-        with open(f"../{file}", "r") as f:
-            license = json.load(f)
-        # Create a License object
-        license_object = License(**license)
-        # Update the license in the database
-        collection.update_one({"licenseId": license_object.licenseId}, {"$set": license_object.model_dump(mode="json")})
-
-    return
-
 
     
 
