@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Query, Path
 from utils import connect_db, License
-from pydantic import BaseModel, AnyUrl
+from pydantic import BaseModel
 from typing import Union
 from typing_extensions import Annotated
 from git import Repo

@@ -2,9 +2,8 @@
 import json
 import os
 from pydantic import BaseModel, AnyUrl
-from typing import Deque, List, Optional, Tuple
+from typing import List
 from pymongo import MongoClient
-from git import Repo
 
 
 # Each license has a JSON file with the following structure:
