@@ -81,7 +81,6 @@ def update_db_from_files():
     '''
     This function updates the database with the licenses in the JSON files
     It uses "update" instead of "insert" so it can be used to update an existing database
-    🚧 NOT TESTED YET
     '''
     # Connect to the database
     collection = connect_db()
@@ -93,8 +92,8 @@ def update_db_from_files():
         # Create a License object
         license_object = License(**license)
         # Update the license in the database
-        collection.update_one({"licenseId": license_object.licenseId}, {"$set": license_object.model_dump(mode="json")})
-        N+=1
+        modified = collection.update_one({"licenseId": license_object.licenseId}, {"$set": license_object.model_dump(mode="json")})
+        N+=modified.modified_count
 
     return N
 
