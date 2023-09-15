@@ -8,4 +8,4 @@ update:
   rules:
     - changes:
         - licenses/*
-        when: on_success
+      when: on_success
