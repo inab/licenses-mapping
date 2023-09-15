@@ -4,8 +4,7 @@ stages:
 update:
   stage: webhook
   variables:
-    DEPLOY_CURL_COMMAND_BODY: "'{\"state\":updated}'"
-    DEPLOY_CURL_COMMAND: 'curl -H "Content-Type: application/json" --data $DEPLOY_CURL_COMMAND_BODY https://396e-84-88-188-229.ngrok-free.app/webhooks'
+    DEPLOY_CURL_COMMAND: 'curl -H "Content-Type: application/json" --data @data.json https://396e-84-88-188-229.ngrok-free.app/webhooks'
   script:
     - 'eval "$DEPLOY_CURL_COMMAND"'
   rules:
