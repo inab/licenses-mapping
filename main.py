@@ -4,7 +4,19 @@ from pydantic import BaseModel, AnyUrl
 from typing import Union
 from typing_extensions import Annotated
 
-app = FastAPI()
+app = FastAPI(
+    title="License Mapping API",
+    description="This API allows to map license strings to a SPDX licenses and get licenses information",
+    version="0.1.0",
+    contact={
+        "name": "Eva Martin",
+        "email": "eva.martin@bsc.es",
+        },
+    license_info={
+        "name": "Apache 2.0",
+        "url": "https://www.apache.org/licenses/LICENSE-2.0.html",
+    }
+)
 
 @app.get("/")
 def read_root():
