@@ -122,6 +122,12 @@ def webhooks(
             "status": "success",
             "message": f"{N} documents updated in database"
             }
+    
+    if payload.state == 'ping':
+        return {
+            "status": "success",
+            "message": "pong from License Mapping API 👋🏻"
+            }
     else:
         return payload
     
