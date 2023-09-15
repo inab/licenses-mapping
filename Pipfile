@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 pydantic = "*"
-fastapi = "*"
 gitpython = "*"
 pymongo = "*"
+fastapi = {extras = ["all"], version = "*"}
 
 [dev-packages]
 
