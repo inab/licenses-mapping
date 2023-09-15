@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Linux-man-pages-copyleft-2-para.html",
+    "licenseId": "Linux-man-pages-copyleft-2-para",
+    "name": "Linux man-pages Copyleft - 2 paragraphs",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/move_pages.2#n5",
+        "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/migrate_pages.2#n8"
+    ],
+    "synonyms": []
+}

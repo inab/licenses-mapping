@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SL.html",
+    "licenseId": "SL",
+    "name": "SL License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/mtoyoda/sl/blob/master/LICENSE"
+    ],
+    "synonyms": []
+}

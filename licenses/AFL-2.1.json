@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/AFL-2.1.html",
+    "licenseId": "AFL-2.1",
+    "name": "Academic Free License v2.1",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://opensource.linux-mirror.org/licenses/afl-2.1.txt"
+    ],
+    "synonyms": []
+}

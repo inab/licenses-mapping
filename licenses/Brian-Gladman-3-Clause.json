@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Brian-Gladman-3-Clause.html",
+    "licenseId": "Brian-Gladman-3-Clause",
+    "name": "Brian Gladman 3-Clause License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/SWI-Prolog/packages-clib/blob/master/sha1/brg_endian.h"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/UPL-1.0.html",
+    "licenseId": "UPL-1.0",
+    "name": "Universal Permissive License v1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/UPL"
+    ],
+    "synonyms": []
+}

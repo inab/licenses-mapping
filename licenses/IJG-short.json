@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/IJG-short.html",
+    "licenseId": "IJG-short",
+    "name": "Independent JPEG Group License - short",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/ljpg/"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/metamail.html",
+    "licenseId": "metamail",
+    "name": "metamail License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/Dual-Life/mime-base64/blob/master/Base64.xs#L12"
+    ],
+    "synonyms": []
+}

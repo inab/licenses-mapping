@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OML.html",
+    "licenseId": "OML",
+    "name": "Open Market License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Open_Market_License"
+    ],
+    "synonyms": []
+}

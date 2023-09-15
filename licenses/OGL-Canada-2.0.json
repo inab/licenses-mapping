@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OGL-Canada-2.0.html",
+    "licenseId": "OGL-Canada-2.0",
+    "name": "Open Government Licence - Canada",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://open.canada.ca/en/open-government-licence-canada"
+    ],
+    "synonyms": []
+}

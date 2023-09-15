@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Beerware.html",
+    "licenseId": "Beerware",
+    "name": "Beerware License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Beerware",
+        "https://people.freebsd.org/~phk/"
+    ],
+    "synonyms": []
+}

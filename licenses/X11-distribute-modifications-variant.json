@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/X11-distribute-modifications-variant.html",
+    "licenseId": "X11-distribute-modifications-variant",
+    "name": "X11 License Distribution Modification Variant",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/mirror/ncurses/blob/master/COPYING"
+    ],
+    "synonyms": []
+}

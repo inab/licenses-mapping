@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CNRI-Python-GPL-Compatible.html",
+    "licenseId": "CNRI-Python-GPL-Compatible",
+    "name": "CNRI Python Open Source GPL Compatible License Agreement",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.python.org/download/releases/1.6.1/download_win/"
+    ],
+    "synonyms": []
+}

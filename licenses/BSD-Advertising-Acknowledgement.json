@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-Advertising-Acknowledgement.html",
+    "licenseId": "BSD-Advertising-Acknowledgement",
+    "name": "BSD Advertising Acknowledgement License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/python-excel/xlrd/blob/master/LICENSE#L33"
+    ],
+    "synonyms": []
+}

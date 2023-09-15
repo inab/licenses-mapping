@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/NTP.html",
+    "licenseId": "NTP",
+    "name": "NTP License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/NTP"
+    ],
+    "synonyms": []
+}

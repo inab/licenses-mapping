@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/CAL-1.0.html",
+    "licenseId": "CAL-1.0",
+    "name": "Cryptographic Autonomy License 1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://cryptographicautonomylicense.com/license-text.html",
+        "https://opensource.org/licenses/CAL-1.0"
+    ],
+    "synonyms": []
+}

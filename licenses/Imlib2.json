@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Imlib2.html",
+    "licenseId": "Imlib2",
+    "name": "Imlib2 License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://trac.enlightenment.org/e/browser/trunk/imlib2/COPYING",
+        "https://git.enlightenment.org/legacy/imlib2.git/tree/COPYING"
+    ],
+    "synonyms": []
+}

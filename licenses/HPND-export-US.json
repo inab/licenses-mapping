@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/HPND-export-US.html",
+    "licenseId": "HPND-export-US",
+    "name": "HPND with US Government export control warning",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.kermitproject.org/ck90.html#source"
+    ],
+    "synonyms": []
+}

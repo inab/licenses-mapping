@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/OCLC-2.0.html",
+    "licenseId": "OCLC-2.0",
+    "name": "OCLC Research Public License 2.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.oclc.org/research/activities/software/license/v2final.htm",
+        "https://opensource.org/licenses/OCLC-2.0"
+    ],
+    "synonyms": []
+}

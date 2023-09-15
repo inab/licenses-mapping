@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/ICU.html",
+    "licenseId": "ICU",
+    "name": "ICU License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://source.icu-project.org/repos/icu/icu/trunk/license.html"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Xdebug-1.03.html",
+    "licenseId": "Xdebug-1.03",
+    "name": "Xdebug License v 1.03",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/xdebug/xdebug/blob/master/LICENSE"
+    ],
+    "synonyms": []
+}

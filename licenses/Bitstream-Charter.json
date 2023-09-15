@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Bitstream-Charter.html",
+    "licenseId": "Bitstream-Charter",
+    "name": "Bitstream Charter Font License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Charter#License_Text",
+        "https://raw.githubusercontent.com/blackhole89/notekit/master/data/fonts/Charter%20license.txt"
+    ],
+    "synonyms": []
+}

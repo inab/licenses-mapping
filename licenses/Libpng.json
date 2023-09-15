@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Libpng.html",
+    "licenseId": "Libpng",
+    "name": "libpng License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/Boehm-GC.html",
+    "licenseId": "Boehm-GC",
+    "name": "Boehm-Demers-Weiser GC License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing:MIT#Another_Minimal_variant_(found_in_libatomic_ops)",
+        "https://github.com/uim/libgcroots/blob/master/COPYING",
+        "https://github.com/ivmai/libatomic_ops/blob/master/LICENSE"
+    ],
+    "synonyms": []
+}

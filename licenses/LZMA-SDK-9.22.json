@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/LZMA-SDK-9.22.html",
+    "licenseId": "LZMA-SDK-9.22",
+    "name": "LZMA SDK License (versions 9.22 and beyond)",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.7-zip.org/sdk.html",
+        "https://sourceforge.net/projects/sevenzip/files/LZMA%20SDK/"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Soundex.html",
+    "licenseId": "Soundex",
+    "name": "Soundex License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://metacpan.org/release/RJBS/Text-Soundex-3.05/source/Soundex.pm#L3-11"
+    ],
+    "synonyms": []
+}

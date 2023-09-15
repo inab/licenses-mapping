@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-BY-NC-ND-2.0.html",
+    "licenseId": "CC-BY-NC-ND-2.0",
+    "name": "Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/by-nc-nd/2.0/legalcode"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/TORQUE-1.1.html",
+    "licenseId": "TORQUE-1.1",
+    "name": "TORQUE v2.5+ Software License v1.1",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/TORQUEv1.1"
+    ],
+    "synonyms": []
+}

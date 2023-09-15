@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/OPUBL-1.0.html",
+    "licenseId": "OPUBL-1.0",
+    "name": "Open Publication License v1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://opencontent.org/openpub/",
+        "https://www.debian.org/opl",
+        "https://www.ctan.org/license/opl"
+    ],
+    "synonyms": []
+}

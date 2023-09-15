@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/OFL-1.1-RFN.html",
+    "licenseId": "OFL-1.1-RFN",
+    "name": "SIL Open Font License 1.1 with Reserved Font Name",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web",
+        "https://opensource.org/licenses/OFL-1.1"
+    ],
+    "synonyms": []
+}

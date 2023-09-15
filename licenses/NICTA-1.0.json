@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/NICTA-1.0.html",
+    "licenseId": "NICTA-1.0",
+    "name": "NICTA Public Software License, Version 1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.apple.com/source/mDNSResponder/mDNSResponder-320.10/mDNSPosix/nss_ReadMe.txt"
+    ],
+    "synonyms": []
+}

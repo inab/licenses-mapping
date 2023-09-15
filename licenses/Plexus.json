@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Plexus.html",
+    "licenseId": "Plexus",
+    "name": "Plexus Classworlds License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License"
+    ],
+    "synonyms": []
+}

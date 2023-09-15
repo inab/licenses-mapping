@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/AML.html",
+    "licenseId": "AML",
+    "name": "Apple MIT License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Apple_MIT_License"
+    ],
+    "synonyms": []
+}

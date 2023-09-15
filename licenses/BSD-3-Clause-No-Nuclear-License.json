@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License.html",
+    "licenseId": "BSD-3-Clause-No-Nuclear-License",
+    "name": "BSD 3-Clause No Nuclear License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://download.oracle.com/otn-pub/java/licenses/bsd.txt?AuthParam=1467140197_43d516ce1776bd08a58235a7785be1cc"
+    ],
+    "synonyms": []
+}

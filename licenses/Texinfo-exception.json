@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Texinfo-exception.html",
+    "licenseId": "Texinfo-exception",
+    "name": "Texinfo exception",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://git.savannah.gnu.org/cgit/automake.git/tree/lib/texinfo.tex?h=v1.16.5#n23"
+    ],
+    "synonyms": []
+}

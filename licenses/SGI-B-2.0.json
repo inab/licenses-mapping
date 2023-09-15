@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SGI-B-2.0.html",
+    "licenseId": "SGI-B-2.0",
+    "name": "SGI Free Software License B v2.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf"
+    ],
+    "synonyms": []
+}

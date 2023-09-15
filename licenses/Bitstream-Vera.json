@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Bitstream-Vera.html",
+    "licenseId": "Bitstream-Vera",
+    "name": "Bitstream Vera Font License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://web.archive.org/web/20080207013128/http://www.gnome.org/fonts/",
+        "https://docubrain.com/sites/default/files/licenses/bitstream-vera.html"
+    ],
+    "synonyms": []
+}

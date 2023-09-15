@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/zlib-acknowledgement.html",
+    "licenseId": "zlib-acknowledgement",
+    "name": "zlib/libpng License with Acknowledgement",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/ZlibWithAcknowledgement"
+    ],
+    "synonyms": []
+}

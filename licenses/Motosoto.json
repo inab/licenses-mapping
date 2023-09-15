@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Motosoto.html",
+    "licenseId": "Motosoto",
+    "name": "Motosoto License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/Motosoto"
+    ],
+    "synonyms": []
+}

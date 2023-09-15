@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/LPPL-1.3c.html",
+    "licenseId": "LPPL-1.3c",
+    "name": "LaTeX Project Public License v1.3c",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.latex-project.org/lppl/lppl-1-3c.txt",
+        "https://opensource.org/licenses/LPPL-1.3c"
+    ],
+    "synonyms": []
+}

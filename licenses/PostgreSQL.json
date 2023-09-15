@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/PostgreSQL.html",
+    "licenseId": "PostgreSQL",
+    "name": "PostgreSQL License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.postgresql.org/about/licence",
+        "https://opensource.org/licenses/PostgreSQL"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/ECL-1.0.html",
+    "licenseId": "ECL-1.0",
+    "name": "Educational Community License v1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/ECL-1.0"
+    ],
+    "synonyms": []
+}

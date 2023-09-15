@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-BY-3.0-NL.html",
+    "licenseId": "CC-BY-3.0-NL",
+    "name": "Creative Commons Attribution 3.0 Netherlands",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/by/3.0/nl/legalcode"
+    ],
+    "synonyms": []
+}

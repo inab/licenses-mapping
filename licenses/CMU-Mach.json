@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CMU-Mach.html",
+    "licenseId": "CMU-Mach",
+    "name": "CMU Mach License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.cs.cmu.edu/~410/licenses.html"
+    ],
+    "synonyms": []
+}

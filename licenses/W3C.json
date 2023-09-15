@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/W3C.html",
+    "licenseId": "W3C",
+    "name": "W3C Software Notice and License (2002-12-31)",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231.html",
+        "https://opensource.org/licenses/W3C"
+    ],
+    "synonyms": []
+}

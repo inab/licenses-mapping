@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Linux-OpenIB.html",
+    "licenseId": "Linux-OpenIB",
+    "name": "Linux Kernel Variant of OpenIB.org license",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/drivers/infiniband/core/sa.h"
+    ],
+    "synonyms": []
+}

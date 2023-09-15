@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Condor-1.1.html",
+    "licenseId": "Condor-1.1",
+    "name": "Condor Public License v1.1",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://research.cs.wisc.edu/condor/license.html#condor",
+        "http://web.archive.org/web/20111123062036/http://research.cs.wisc.edu/condor/license.html#condor"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OPL-UK-3.0.html",
+    "licenseId": "OPL-UK-3.0",
+    "name": "United    Kingdom Open Parliament Licence v3.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/"
+    ],
+    "synonyms": []
+}

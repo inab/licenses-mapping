@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-BY-SA-3.0-IGO.html",
+    "licenseId": "CC-BY-SA-3.0-IGO",
+    "name": "Creative Commons Attribution-ShareAlike 3.0 IGO",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/by-sa/3.0/igo/legalcode"
+    ],
+    "synonyms": []
+}

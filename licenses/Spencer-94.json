@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Spencer-94.html",
+    "licenseId": "Spencer-94",
+    "name": "Spencer License 94",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License",
+        "https://metacpan.org/release/KNOK/File-MMagic-1.30/source/COPYING#L28"
+    ],
+    "synonyms": []
+}

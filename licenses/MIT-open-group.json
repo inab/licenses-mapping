@@ -1,0 +1,14 @@
+{
+    "reference": "https://spdx.org/licenses/MIT-open-group.html",
+    "licenseId": "MIT-open-group",
+    "name": "MIT Open Group variant",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING",
+        "https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING",
+        "https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING",
+        "https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING"
+    ],
+    "synonyms": []
+}

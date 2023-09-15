@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/AMDPLPA.html",
+    "licenseId": "AMDPLPA",
+    "name": "AMD's plpa_map.c License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/AMD_plpa_map_License"
+    ],
+    "synonyms": []
+}

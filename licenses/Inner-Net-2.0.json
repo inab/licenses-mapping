@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Inner-Net-2.0.html",
+    "licenseId": "Inner-Net-2.0",
+    "name": "Inner Net License v2.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Inner_Net_License",
+        "https://sourceware.org/git/?p=glibc.git;a=blob;f=LICENSES;h=530893b1dc9ea00755603c68fb36bd4fc38a7be8;hb=HEAD#l207"
+    ],
+    "synonyms": []
+}

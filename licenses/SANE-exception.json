@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/SANE-exception.html",
+    "licenseId": "SANE-exception",
+    "name": "SANE Exception",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/alexpevzner/sane-airscan/blob/master/LICENSE",
+        "https://gitlab.com/sane-project/backends/-/blob/master/sanei/sanei_pp.c?ref_type=heads",
+        "https://gitlab.com/sane-project/frontends/-/blob/master/sanei/sanei_codec_ascii.c?ref_type=heads"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-4.3RENO.html",
+    "licenseId": "BSD-4.3RENO",
+    "name": "BSD 4.3 RENO License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sourceware.org/git/?p=binutils-gdb.git;a=blob;f=libiberty/strcasecmp.c;h=131d81c2ce7881fa48c363dc5bf5fb302c61ce0b;hb=HEAD"
+    ],
+    "synonyms": []
+}

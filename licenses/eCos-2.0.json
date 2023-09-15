@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/eCos-2.0.html",
+    "licenseId": "eCos-2.0",
+    "name": "eCos license version 2.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "https://www.gnu.org/licenses/ecos-license.html"
+    ],
+    "synonyms": []
+}

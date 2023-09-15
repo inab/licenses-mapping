@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/MMIXware.html",
+    "licenseId": "MMIXware",
+    "name": "MMIXware License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://gitlab.lrz.de/mmix/mmixware/-/blob/master/boilerplate.w"
+    ],
+    "synonyms": []
+}

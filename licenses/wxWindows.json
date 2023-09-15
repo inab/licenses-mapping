@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/wxWindows.html",
+    "licenseId": "wxWindows",
+    "name": "wxWindows Library License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "https://opensource.org/licenses/WXwindows"
+    ],
+    "synonyms": []
+}

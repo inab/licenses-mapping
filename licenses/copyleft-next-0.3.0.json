@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/copyleft-next-0.3.0.html",
+    "licenseId": "copyleft-next-0.3.0",
+    "name": "copyleft-next 0.3.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/copyleft-next/copyleft-next/blob/master/Releases/copyleft-next-0.3.0"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/HTMLTIDY.html",
+    "licenseId": "HTMLTIDY",
+    "name": "HTML Tidy License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/htacg/tidy-html5/blob/next/README/LICENSE.md"
+    ],
+    "synonyms": []
+}

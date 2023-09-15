@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/MPEG-SSG.html",
+    "licenseId": "MPEG-SSG",
+    "name": "MPEG Software Simulation",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/converter/ppm/ppmtompeg/jrevdct.c#l1189"
+    ],
+    "synonyms": []
+}

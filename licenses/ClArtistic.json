@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/ClArtistic.html",
+    "licenseId": "ClArtistic",
+    "name": "Clarified Artistic License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://gianluca.dellavedova.org/2011/01/03/clarified-artistic-license/",
+        "http://www.ncftp.com/ncftp/doc/LICENSE.txt"
+    ],
+    "synonyms": []
+}

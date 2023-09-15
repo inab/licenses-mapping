@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Latex2e.html",
+    "licenseId": "Latex2e",
+    "name": "Latex2e License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Latex2e"
+    ],
+    "synonyms": []
+}

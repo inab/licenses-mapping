@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/JPL-image.html",
+    "licenseId": "JPL-image",
+    "name": "JPL Image Use Policy",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.jpl.nasa.gov/jpl-image-use-policy"
+    ],
+    "synonyms": []
+}

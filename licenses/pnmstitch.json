@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/pnmstitch.html",
+    "licenseId": "pnmstitch",
+    "name": "pnmstitch License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/editor/pnmstitch.c#l2"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/MPL-2.0-no-copyleft-exception.html",
+    "licenseId": "MPL-2.0-no-copyleft-exception",
+    "name": "Mozilla Public License 2.0 (no copyleft exception)",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.mozilla.org/MPL/2.0/",
+        "https://opensource.org/licenses/MPL-2.0"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SimPL-2.0.html",
+    "licenseId": "SimPL-2.0",
+    "name": "Simple Public License 2.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/SimPL-2.0"
+    ],
+    "synonyms": []
+}

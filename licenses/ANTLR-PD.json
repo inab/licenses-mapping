@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/ANTLR-PD.html",
+    "licenseId": "ANTLR-PD",
+    "name": "ANTLR Software Rights Notice",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.antlr2.org/license.html"
+    ],
+    "synonyms": []
+}

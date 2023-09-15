@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Clips.html",
+    "licenseId": "Clips",
+    "name": "Clips License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/DrItanium/maya/blob/master/LICENSE.CLIPS"
+    ],
+    "synonyms": []
+}

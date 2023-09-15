@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Afmparse.html",
+    "licenseId": "Afmparse",
+    "name": "Afmparse License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Afmparse"
+    ],
+    "synonyms": []
+}

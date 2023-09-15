@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/IPL-1.0.html",
+    "licenseId": "IPL-1.0",
+    "name": "IBM Public License v1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/IPL-1.0"
+    ],
+    "synonyms": []
+}

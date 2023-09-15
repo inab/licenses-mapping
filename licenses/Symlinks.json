@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Symlinks.html",
+    "licenseId": "Symlinks",
+    "name": "Symlinks License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.mail-archive.com/debian-bugs-rc@lists.debian.org/msg11494.html"
+    ],
+    "synonyms": []
+}

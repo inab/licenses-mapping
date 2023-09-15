@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CPOL-1.02.html",
+    "licenseId": "CPOL-1.02",
+    "name": "Code Project Open License 1.02",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.codeproject.com/info/cpol10.aspx"
+    ],
+    "synonyms": []
+}

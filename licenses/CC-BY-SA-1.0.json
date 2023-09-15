@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-BY-SA-1.0.html",
+    "licenseId": "CC-BY-SA-1.0",
+    "name": "Creative Commons Attribution Share Alike 1.0 Generic",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/by-sa/1.0/legalcode"
+    ],
+    "synonyms": []
+}

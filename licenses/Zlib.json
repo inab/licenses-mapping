@@ -1,0 +1,14 @@
+{
+    "reference": "https://spdx.org/licenses/Zlib.html",
+    "licenseId": "Zlib",
+    "name": "zlib License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.zlib.net/zlib_license.html",
+        "https://opensource.org/licenses/Zlib"
+    ],
+    "synonyms": [
+        "zlib/libpng"
+    ]
+}

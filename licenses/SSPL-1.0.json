@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SSPL-1.0.html",
+    "licenseId": "SSPL-1.0",
+    "name": "Server Side Public License, v 1",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.mongodb.com/licensing/server-side-public-license"
+    ],
+    "synonyms": []
+}

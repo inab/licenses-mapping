@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SHL-0.5.html",
+    "licenseId": "SHL-0.5",
+    "name": "Solderpad Hardware License v0.5",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://solderpad.org/licenses/SHL-0.5/"
+    ],
+    "synonyms": []
+}

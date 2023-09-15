@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/XSkat.html",
+    "licenseId": "XSkat",
+    "name": "XSkat License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/XSkat_License"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/etalab-2.0.html",
+    "licenseId": "etalab-2.0",
+    "name": "Etalab Open License 2.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/DISIC/politique-de-contribution-open-source/blob/master/LICENSE.pdf",
+        "https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/LICENSE"
+    ],
+    "synonyms": []
+}

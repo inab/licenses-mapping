@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Saxpath.html",
+    "licenseId": "Saxpath",
+    "name": "Saxpath License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Saxpath_License"
+    ],
+    "synonyms": []
+}

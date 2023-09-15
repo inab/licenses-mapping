@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Hippocratic-2.1.html",
+    "licenseId": "Hippocratic-2.1",
+    "name": "Hippocratic License 2.1",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://firstdonoharm.dev/version/2/1/license.html",
+        "https://github.com/EthicalSource/hippocratic-license/blob/58c0e646d64ff6fbee275bfe2b9492f914e3ab2a/LICENSE.txt"
+    ],
+    "synonyms": []
+}

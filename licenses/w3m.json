@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/w3m.html",
+    "licenseId": "w3m",
+    "name": "w3m License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/tats/w3m/blob/master/COPYING"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,31 @@
+{
+    "reference": "https://spdx.org/licenses/GPL-2.0-or-later.html",
+    "licenseId": "GPL-2.0-or-later",
+    "name": "GNU General Public License v2.0 or later",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
+        "https://opensource.org/licenses/GPL-2.0"
+    ],
+    "synonyms": [
+        "GNU General Public License v2 or later (GPLv2+)",
+        "GNU GENERAL PUBLIC LICENSE Version 2, June 1991",
+        "GNU General Public v2 or later (GPLv2+)",
+        "GPL (>= 2.0)",
+        "GPL-2 (>= 2)",
+        "GPL(>2)",
+        "GPL (>= 2) | file LICENSE",
+        "GPL (>2)",
+        "GPL(>=2)",
+        "GPL (>=2)",
+        "GPL(>= 2)",
+        "GPL Version 2 or later",
+        "GPL (>= 2)",
+        "GPL (>=2 )",
+        "GPLVersion2orlater",
+        "GPL version 2 or newer",
+        "GPL (version 2 or later)",
+        "GPLversion2ornewer"
+    ]
+}

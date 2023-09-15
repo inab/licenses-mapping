@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/libselinux-1.0.html",
+    "licenseId": "libselinux-1.0",
+    "name": "libselinux public domain notice",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/SELinuxProject/selinux/blob/master/libselinux/LICENSE"
+    ],
+    "synonyms": []
+}

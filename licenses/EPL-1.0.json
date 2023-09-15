@@ -1,0 +1,14 @@
+{
+    "reference": "https://spdx.org/licenses/EPL-1.0.html",
+    "licenseId": "EPL-1.0",
+    "name": "Eclipse Public License 1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.eclipse.org/legal/epl-v10.html",
+        "https://opensource.org/licenses/EPL-1.0"
+    ],
+    "synonyms": [
+        "EPL(>=1.0)"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OpenSSL.html",
+    "licenseId": "OpenSSL",
+    "name": "OpenSSL License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.openssl.org/source/license.html"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/X11.html",
+    "licenseId": "X11",
+    "name": "X11 License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3"
+    ],
+    "synonyms": []
+}

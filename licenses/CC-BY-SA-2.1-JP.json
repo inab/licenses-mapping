@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-BY-SA-2.1-JP.html",
+    "licenseId": "CC-BY-SA-2.1-JP",
+    "name": "Creative Commons Attribution Share Alike 2.1 Japan",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/RSA-MD.html",
+    "licenseId": "RSA-MD",
+    "name": "RSA Message-Digest License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.faqs.org/rfcs/rfc1321.html"
+    ],
+    "synonyms": []
+}

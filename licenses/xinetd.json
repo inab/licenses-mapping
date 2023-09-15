@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/xinetd.html",
+    "licenseId": "xinetd",
+    "name": "xinetd License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Xinetd_License"
+    ],
+    "synonyms": []
+}

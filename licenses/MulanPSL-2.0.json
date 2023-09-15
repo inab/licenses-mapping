@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/MulanPSL-2.0.html",
+    "licenseId": "MulanPSL-2.0",
+    "name": "Mulan Permissive Software License, Version 2",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://license.coscl.org.cn/MulanPSL2/"
+    ],
+    "synonyms": []
+}

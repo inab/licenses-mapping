@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OFFIS.html",
+    "licenseId": "OFFIS",
+    "name": "OFFIS License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sourceforge.net/p/xmedcon/code/ci/master/tree/libs/dicom/README"
+    ],
+    "synonyms": []
+}

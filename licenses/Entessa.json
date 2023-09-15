@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Entessa.html",
+    "licenseId": "Entessa",
+    "name": "Entessa Public License v1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/Entessa"
+    ],
+    "synonyms": []
+}

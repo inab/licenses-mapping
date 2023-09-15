@@ -1,0 +1,20 @@
+{
+    "reference": "https://spdx.org/licenses/MPL-2.0.html",
+    "licenseId": "MPL-2.0",
+    "name": "Mozilla Public License 2.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.mozilla.org/MPL/2.0/",
+        "https://opensource.org/licenses/MPL-2.0"
+    ],
+    "synonyms": [
+        "Mozilla Public License 2.0",
+        "MozillaPublicLicense2.0",
+        "Mozilla Public License Version 2.0",
+        "Mozilla Public License 2.0 (MPL 2.0)",
+        "MPL-2",
+        "MPL2",
+        "Mozilla Public 2.0 (MPL 2.0)"
+    ]
+}

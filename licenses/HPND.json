@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/HPND.html",
+    "licenseId": "HPND",
+    "name": "Historical Permission Notice and Disclaimer",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/HPND"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/checkmk.html",
+    "licenseId": "checkmk",
+    "name": "Checkmk License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/libcheck/check/blob/master/checkmk/checkmk.in"
+    ],
+    "synonyms": []
+}

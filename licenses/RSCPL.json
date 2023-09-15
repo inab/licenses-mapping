@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/RSCPL.html",
+    "licenseId": "RSCPL",
+    "name": "Ricoh Source Code Public License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml",
+        "https://opensource.org/licenses/RSCPL"
+    ],
+    "synonyms": []
+}

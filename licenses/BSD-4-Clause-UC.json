@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-4-Clause-UC.html",
+    "licenseId": "BSD-4-Clause-UC",
+    "name": "BSD-4-Clause (University of California-Specific)",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.freebsd.org/copyright/license.html"
+    ],
+    "synonyms": []
+}

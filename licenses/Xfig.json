@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/Xfig.html",
+    "licenseId": "Xfig",
+    "name": "Xfig License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/Distrotech/transfig/blob/master/transfig/transfig.c",
+        "https://fedoraproject.org/wiki/Licensing:MIT#Xfig_Variant",
+        "https://sourceforge.net/p/mcj/xfig/ci/master/tree/src/Makefile.am"
+    ],
+    "synonyms": []
+}

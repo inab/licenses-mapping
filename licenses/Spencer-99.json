@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Spencer-99.html",
+    "licenseId": "Spencer-99",
+    "name": "Spencer License 99",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c"
+    ],
+    "synonyms": []
+}

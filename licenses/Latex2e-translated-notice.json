@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Latex2e-translated-notice.html",
+    "licenseId": "Latex2e-translated-notice",
+    "name": "Latex2e with translated notice permission",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://git.savannah.gnu.org/cgit/indent.git/tree/doc/indent.texi?id=a74c6b4ee49397cf330b333da1042bffa60ed14f#n74"
+    ],
+    "synonyms": []
+}

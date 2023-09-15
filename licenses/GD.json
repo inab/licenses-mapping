@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/GD.html",
+    "licenseId": "GD",
+    "name": "GD License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://libgd.github.io/manuals/2.3.0/files/license-txt.html"
+    ],
+    "synonyms": []
+}

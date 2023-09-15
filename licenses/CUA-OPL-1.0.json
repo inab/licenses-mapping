@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CUA-OPL-1.0.html",
+    "licenseId": "CUA-OPL-1.0",
+    "name": "CUA Office Public License v1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/CUA-OPL-1.0"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Elastic-2.0.html",
+    "licenseId": "Elastic-2.0",
+    "name": "Elastic License 2.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.elastic.co/licensing/elastic-license",
+        "https://github.com/elastic/elasticsearch/blob/master/licenses/ELASTIC-LICENSE-2.0.txt"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/APL-1.0.html",
+    "licenseId": "APL-1.0",
+    "name": "Adaptive Public License 1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/APL-1.0"
+    ],
+    "synonyms": []
+}

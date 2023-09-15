@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/JPNIC.html",
+    "licenseId": "JPNIC",
+    "name": "Japan Network Information Center License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://gitlab.isc.org/isc-projects/bind9/blob/master/COPYRIGHT#L366"
+    ],
+    "synonyms": []
+}

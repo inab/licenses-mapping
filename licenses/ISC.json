@@ -1,0 +1,16 @@
+{
+    "reference": "https://spdx.org/licenses/ISC.html",
+    "licenseId": "ISC",
+    "name": "ISC License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.isc.org/licenses/",
+        "https://www.isc.org/downloads/software-support-policy/isc-license/",
+        "https://opensource.org/licenses/ISC"
+    ],
+    "synonyms": [
+        "ISCL",
+        "ISC License (ISCL)"
+    ]
+}

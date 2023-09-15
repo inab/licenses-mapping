@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BUSL-1.1.html",
+    "licenseId": "BUSL-1.1",
+    "name": "Business Source License 1.1",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://mariadb.com/bsl11/"
+    ],
+    "synonyms": []
+}

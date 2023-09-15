@@ -1,0 +1,24 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-3-Clause.html",
+    "licenseId": "BSD-3-Clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/BSD-3-Clause",
+        "https://www.eclipse.org/org/documents/edl-v10.php"
+    ],
+    "synonyms": [
+        "BSD 3-Clause License",
+        "BSD 3-clause License",
+        "BSD 3-Clause",
+        "BSD 3-clause",
+        "BSD_3_clause",
+        "BSD-3-Clause License",
+        "BSD-3",
+        "3-clause BSD license",
+        "BSD3",
+        "BSD 3",
+        "The 3-Clause BSD License"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/NLPL.html",
+    "licenseId": "NLPL",
+    "name": "No Limit Public License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/NLPL"
+    ],
+    "synonyms": []
+}

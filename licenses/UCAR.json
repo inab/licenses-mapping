@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/UCAR.html",
+    "licenseId": "UCAR",
+    "name": "UCAR License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/Unidata/UDUNITS-2/blob/master/COPYRIGHT"
+    ],
+    "synonyms": []
+}

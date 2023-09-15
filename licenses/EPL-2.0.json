@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/EPL-2.0.html",
+    "licenseId": "EPL-2.0",
+    "name": "Eclipse Public License 2.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.eclipse.org/legal/epl-2.0",
+        "https://www.opensource.org/licenses/EPL-2.0"
+    ],
+    "synonyms": []
+}

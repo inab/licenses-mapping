@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Borceux.html",
+    "licenseId": "Borceux",
+    "name": "Borceux license",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Borceux"
+    ],
+    "synonyms": []
+}

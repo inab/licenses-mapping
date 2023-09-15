@@ -1,0 +1,16 @@
+{
+    "reference": "https://spdx.org/licenses/LOOP.html",
+    "licenseId": "LOOP",
+    "name": "Common Lisp LOOP License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://gitlab.com/embeddable-common-lisp/ecl/-/blob/develop/src/lsp/loop.lsp",
+        "http://git.savannah.gnu.org/cgit/gcl.git/tree/gcl/lsp/gcl_loop.lsp?h=Version_2_6_13pre",
+        "https://sourceforge.net/p/sbcl/sbcl/ci/master/tree/src/code/loop.lisp",
+        "https://github.com/cl-adams/adams/blob/master/LICENSE.md",
+        "https://github.com/blakemcbride/eclipse-lisp/blob/master/lisp/loop.lisp",
+        "https://gitlab.common-lisp.net/cmucl/cmucl/-/blob/master/src/code/loop.lisp"
+    ],
+    "synonyms": []
+}

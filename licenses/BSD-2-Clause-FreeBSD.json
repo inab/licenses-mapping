@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-2-Clause-FreeBSD.html",
+    "licenseId": "BSD-2-Clause-FreeBSD",
+    "name": "BSD 2-Clause FreeBSD License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "http://www.freebsd.org/copyright/freebsd-license.html"
+    ],
+    "synonyms": [
+        "FreeBSD 2-clause license"
+    ]
+}

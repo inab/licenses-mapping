@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Unlicense.html",
+    "licenseId": "Unlicense",
+    "name": "The Unlicense",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://unlicense.org/"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/UCL-1.0.html",
+    "licenseId": "UCL-1.0",
+    "name": "Upstream Compatibility License v1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/UCL-1.0"
+    ],
+    "synonyms": []
+}

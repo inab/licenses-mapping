@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Nokia.html",
+    "licenseId": "Nokia",
+    "name": "Nokia Open Source License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/nokia"
+    ],
+    "synonyms": []
+}

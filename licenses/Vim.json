@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Vim.html",
+    "licenseId": "Vim",
+    "name": "Vim License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://vimdoc.sourceforge.net/htmldoc/uganda.html"
+    ],
+    "synonyms": []
+}

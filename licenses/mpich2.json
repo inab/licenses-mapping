@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/mpich2.html",
+    "licenseId": "mpich2",
+    "name": "mpich2 License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/MIT"
+    ],
+    "synonyms": []
+}

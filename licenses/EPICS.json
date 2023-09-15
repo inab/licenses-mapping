@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/EPICS.html",
+    "licenseId": "EPICS",
+    "name": "EPICS Open License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://epics.anl.gov/license/open.php"
+    ],
+    "synonyms": []
+}

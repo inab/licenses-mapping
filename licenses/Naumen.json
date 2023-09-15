@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Naumen.html",
+    "licenseId": "Naumen",
+    "name": "Naumen Public License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/Naumen"
+    ],
+    "synonyms": []
+}

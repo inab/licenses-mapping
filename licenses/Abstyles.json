@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Abstyles.html",
+    "licenseId": "Abstyles",
+    "name": "Abstyles License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Abstyles"
+    ],
+    "synonyms": []
+}

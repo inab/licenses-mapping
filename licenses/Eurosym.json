@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Eurosym.html",
+    "licenseId": "Eurosym",
+    "name": "Eurosym License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Eurosym"
+    ],
+    "synonyms": []
+}

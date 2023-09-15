@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-4-Clause.html",
+    "licenseId": "BSD-4-Clause",
+    "name": "BSD 4-Clause \"Original\" or \"Old\" License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://directory.fsf.org/wiki/License:BSD_4Clause"
+    ],
+    "synonyms": []
+}

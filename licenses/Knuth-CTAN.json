@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Knuth-CTAN.html",
+    "licenseId": "Knuth-CTAN",
+    "name": "Knuth CTAN License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://ctan.org/license/knuth"
+    ],
+    "synonyms": []
+}

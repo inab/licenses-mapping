@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/App-s2p.html",
+    "licenseId": "App-s2p",
+    "name": "App::s2p License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/App-s2p"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/LGPLLR.html",
+    "licenseId": "LGPLLR",
+    "name": "Lesser General Public License For Linguistic Resources",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www-igm.univ-mlv.fr/~unitex/lgpllr.html"
+    ],
+    "synonyms": []
+}

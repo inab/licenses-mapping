@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CERN-OHL-P-2.0.html",
+    "licenseId": "CERN-OHL-P-2.0",
+    "name": "CERN Open Hardware Licence Version 2 - Permissive",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2"
+    ],
+    "synonyms": []
+}

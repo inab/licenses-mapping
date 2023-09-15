@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Nunit.html",
+    "licenseId": "Nunit",
+    "name": "Nunit License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Nunit"
+    ],
+    "synonyms": []
+}

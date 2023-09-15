@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/HaskellReport.html",
+    "licenseId": "HaskellReport",
+    "name": "Haskell Language Report License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Haskell_Language_Report_License"
+    ],
+    "synonyms": []
+}

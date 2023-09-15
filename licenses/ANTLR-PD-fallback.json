@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/ANTLR-PD-fallback.html",
+    "licenseId": "ANTLR-PD-fallback",
+    "name": "ANTLR Software Rights Notice with license fallback",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.antlr2.org/license.html"
+    ],
+    "synonyms": []
+}

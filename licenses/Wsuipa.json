@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Wsuipa.html",
+    "licenseId": "Wsuipa",
+    "name": "Wsuipa License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Wsuipa"
+    ],
+    "synonyms": []
+}

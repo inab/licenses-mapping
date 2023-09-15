@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Mup.html",
+    "licenseId": "Mup",
+    "name": "Mup License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Mup"
+    ],
+    "synonyms": []
+}

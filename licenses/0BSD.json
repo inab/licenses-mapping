@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/0BSD.html",
+    "licenseId": "0BSD",
+    "name": "BSD Zero Clause License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://landley.net/toybox/license.html",
+        "https://opensource.org/licenses/0BSD"
+    ],
+    "synonyms": []
+}

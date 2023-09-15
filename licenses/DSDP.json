@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/DSDP.html",
+    "licenseId": "DSDP",
+    "name": "DSDP License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/DSDP"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/blessing.html",
+    "licenseId": "blessing",
+    "name": "SQLite Blessing",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.sqlite.org/src/artifact/e33a4df7e32d742a?ln=4-9",
+        "https://sqlite.org/src/artifact/df5091916dbb40e6"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-2-Clause-Patent.html",
+    "licenseId": "BSD-2-Clause-Patent",
+    "name": "BSD-2-Clause Plus Patent License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/BSDplusPatent"
+    ],
+    "synonyms": []
+}

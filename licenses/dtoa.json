@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/dtoa.html",
+    "licenseId": "dtoa",
+    "name": "David M. Gay dtoa License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/SWI-Prolog/swipl-devel/blob/master/src/os/dtoa.c"
+    ],
+    "synonyms": []
+}

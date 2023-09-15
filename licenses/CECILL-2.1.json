@@ -1,0 +1,14 @@
+{
+    "reference": "https://spdx.org/licenses/CECILL-2.1.html",
+    "licenseId": "CECILL-2.1",
+    "name": "CeCILL Free Software License Agreement v2.1",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html"
+    ],
+    "synonyms": [
+        "CeCiLL 2.1",
+        "CeCILL 2.1"
+    ]
+}

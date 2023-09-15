@@ -1,0 +1,18 @@
+{
+    "reference": "https://spdx.org/licenses/LGPL-2.1.html",
+    "licenseId": "LGPL-2.1",
+    "name": "GNU Lesser General Public License v2.1 only",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+        "https://opensource.org/licenses/LGPL-2.1"
+    ],
+    "synonyms": [
+        "LGPLv2.1",
+        "LGPL V2.1",
+        "LGPL v2.1",
+        "LGPL (>= 2.1) | file LICENSE",
+        "GNU LGPL 2.1"
+    ]
+}

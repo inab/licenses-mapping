@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SGP4.html",
+    "licenseId": "SGP4",
+    "name": "SGP4 Permission Notice",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://celestrak.org/publications/AIAA/2006-6753/faq.php"
+    ],
+    "synonyms": []
+}

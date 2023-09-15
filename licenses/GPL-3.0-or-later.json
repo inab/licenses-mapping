@@ -1,0 +1,22 @@
+{
+    "reference": "https://spdx.org/licenses/GPL-3.0-or-later.html",
+    "licenseId": "GPL-3.0-or-later",
+    "name": "GNU General Public License v3.0 or later",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
+        "https://opensource.org/licenses/GPL-3.0"
+    ],
+    "synonyms": [
+        "GNU General Public License v3 or later (GPLv3+)",
+        "GNU General Public v3 or later (GPLv3+)",
+        "GPL (>= 3.0)",
+        "GPL-3 or above",
+        "GPL >=3",
+        "GPL (>= 3) | file LICENSE",
+        "GPL(>=3)",
+        "GPL (>=3)",
+        "GPL (>= 3)"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/QPL-1.0-INRIA-2004.html",
+    "licenseId": "QPL-1.0-INRIA-2004",
+    "name": "Q Public License 1.0 - INRIA 2004 variant",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/maranget/hevea/blob/master/LICENSE"
+    ],
+    "synonyms": []
+}

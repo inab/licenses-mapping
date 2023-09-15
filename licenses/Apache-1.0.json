@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Apache-1.0.html",
+    "licenseId": "Apache-1.0",
+    "name": "Apache License 1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.apache.org/licenses/LICENSE-1.0"
+    ],
+    "synonyms": []
+}

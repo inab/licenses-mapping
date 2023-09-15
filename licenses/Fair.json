@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Fair.html",
+    "licenseId": "Fair",
+    "name": "Fair License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://fairlicense.org/",
+        "https://opensource.org/licenses/Fair"
+    ],
+    "synonyms": []
+}

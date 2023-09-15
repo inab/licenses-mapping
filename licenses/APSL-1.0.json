@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/APSL-1.0.html",
+    "licenseId": "APSL-1.0",
+    "name": "Apple Public Source License 1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Apple_Public_Source_License_1.0"
+    ],
+    "synonyms": []
+}

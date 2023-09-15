@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/MIT-Wu.html",
+    "licenseId": "MIT-Wu",
+    "name": "MIT Tom Wu Variant",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/chromium/octane/blob/master/crypto.js"
+    ],
+    "synonyms": []
+}

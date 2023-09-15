@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Multics.html",
+    "licenseId": "Multics",
+    "name": "Multics License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/Multics"
+    ],
+    "synonyms": []
+}

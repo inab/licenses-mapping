@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/TTYP0.html",
+    "licenseId": "TTYP0",
+    "name": "TTYP0 License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://people.mpi-inf.mpg.de/~uwe/misc/uw-ttyp0/"
+    ],
+    "synonyms": []
+}

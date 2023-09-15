@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/mpi-permissive.html",
+    "licenseId": "mpi-permissive",
+    "name": "mpi Permissive License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sources.debian.org/src/openmpi/4.1.0-10/ompi/debuggers/msgq_interface.h/?hl=19#L19"
+    ],
+    "synonyms": []
+}

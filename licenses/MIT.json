@@ -1,0 +1,21 @@
+{
+    "reference": "https://spdx.org/licenses/MIT.html",
+    "licenseId": "MIT",
+    "name": "MIT License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/MIT"
+    ],
+    "synonyms": [
+        "MIT + LICENSE",
+        "MIT Licence",
+        "MIT",
+        "MIT License or MIT",
+        "MIT + file LICENCE",
+        "MIT|fileLICENSE",
+        "MIT+fileLICENCE",
+        "MIT - https://github.com/slncky/slncky/blob/1.0.3/license.txt - Copyright (c) 2015 Jennifer Chen",
+        "License :: OSI Approved :: MIT"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Sendmail.html",
+    "licenseId": "Sendmail",
+    "name": "Sendmail License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.sendmail.com/pdfs/open_source/sendmail_license.pdf",
+        "https://web.archive.org/web/20160322142305/https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf"
+    ],
+    "synonyms": []
+}

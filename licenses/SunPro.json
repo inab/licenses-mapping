@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/SunPro.html",
+    "licenseId": "SunPro",
+    "name": "SunPro License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
+        "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c"
+    ],
+    "synonyms": []
+}

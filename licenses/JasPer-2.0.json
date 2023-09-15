@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/JasPer-2.0.html",
+    "licenseId": "JasPer-2.0",
+    "name": "JasPer License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.ece.uvic.ca/~mdadams/jasper/LICENSE"
+    ],
+    "synonyms": []
+}

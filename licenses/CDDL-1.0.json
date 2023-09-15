@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CDDL-1.0.html",
+    "licenseId": "CDDL-1.0",
+    "name": "Common Development and Distribution License 1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/cddl1"
+    ],
+    "synonyms": []
+}

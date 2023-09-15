@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Linux-man-pages-1-para.html",
+    "licenseId": "Linux-man-pages-1-para",
+    "name": "Linux man-pages - 1 paragraph",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/getcpu.2#n4"
+    ],
+    "synonyms": []
+}

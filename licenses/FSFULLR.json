@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/FSFULLR.html",
+    "licenseId": "FSFULLR",
+    "name": "FSF Unlimited License (with License Retention)",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License#License_Retention_Variant"
+    ],
+    "synonyms": []
+}

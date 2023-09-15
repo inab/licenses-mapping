@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CDLA-Permissive-2.0.html",
+    "licenseId": "CDLA-Permissive-2.0",
+    "name": "Community Data License Agreement Permissive 2.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://cdla.dev/permissive-2-0"
+    ],
+    "synonyms": []
+}

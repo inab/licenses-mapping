@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/MIT-Modern-Variant.html",
+    "licenseId": "MIT-Modern-Variant",
+    "name": "MIT License Modern Variant",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing:MIT#Modern_Variants",
+        "https://ptolemy.berkeley.edu/copyright.htm",
+        "https://pirlwww.lpl.arizona.edu/resources/guide/software/PerlTk/Tixlic.html"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Intel-ACPI.html",
+    "licenseId": "Intel-ACPI",
+    "name": "Intel ACPI Software License Agreement",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Intel_ACPI_Software_License_Agreement"
+    ],
+    "synonyms": []
+}

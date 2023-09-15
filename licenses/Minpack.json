@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Minpack.html",
+    "licenseId": "Minpack",
+    "name": "Minpack License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.netlib.org/minpack/disclaimer",
+        "https://gitlab.com/libeigen/eigen/-/blob/master/COPYING.MINPACK"
+    ],
+    "synonyms": []
+}

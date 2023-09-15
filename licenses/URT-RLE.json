@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/URT-RLE.html",
+    "licenseId": "URT-RLE",
+    "name": "Utah Raster Toolkit Run Length Encoded License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/converter/other/pnmtorle.c",
+        "https://sourceforge.net/p/netpbm/code/HEAD/tree/super_stable/converter/other/rletopnm.c"
+    ],
+    "synonyms": []
+}

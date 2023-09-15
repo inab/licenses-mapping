@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/MIT-CMU.html",
+    "licenseId": "MIT-CMU",
+    "name": "CMU License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing:MIT?rd=Licensing/MIT#CMU_Style",
+        "https://github.com/python-pillow/Pillow/blob/fffb426092c8db24a5f4b6df243a8a3c01fb63cd/LICENSE"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/diffmark.html",
+    "licenseId": "diffmark",
+    "name": "diffmark license",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/diffmark"
+    ],
+    "synonyms": []
+}

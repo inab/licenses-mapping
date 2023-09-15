@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/IPA.html",
+    "licenseId": "IPA",
+    "name": "IPA Font License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/IPA"
+    ],
+    "synonyms": []
+}

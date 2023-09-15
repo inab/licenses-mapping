@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/libutil-David-Nugent.html",
+    "licenseId": "libutil-David-Nugent",
+    "name": "libutil David Nugent License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://web.mit.edu/freebsd/head/lib/libutil/login_ok.3",
+        "https://cgit.freedesktop.org/libbsd/tree/man/setproctitle.3bsd"
+    ],
+    "synonyms": []
+}

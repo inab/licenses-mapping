@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OLDAP-2.6.html",
+    "licenseId": "OLDAP-2.6",
+    "name": "Open LDAP Public License v2.6",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.openldap.org/devel/gitweb.cgi?p=openldap.git;a=blob;f=LICENSE;hb=1cae062821881f41b73012ba816434897abf4205"
+    ],
+    "synonyms": []
+}

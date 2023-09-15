@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-BY-NC-SA-3.0-DE.html",
+    "licenseId": "CC-BY-NC-SA-3.0-DE",
+    "name": "Creative Commons Attribution Non Commercial Share Alike 3.0 Germany",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/by-nc-sa/3.0/de/legalcode"
+    ],
+    "synonyms": []
+}

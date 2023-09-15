@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CNRI-Jython.html",
+    "licenseId": "CNRI-Jython",
+    "name": "CNRI Jython License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.jython.org/license.html"
+    ],
+    "synonyms": []
+}

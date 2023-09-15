@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/stunnel-exception.html",
+    "licenseId": "stunnel-exception",
+    "name": "stunnel Exception",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/mtrojnar/stunnel/blob/master/COPYING.md"
+    ],
+    "synonyms": []
+}

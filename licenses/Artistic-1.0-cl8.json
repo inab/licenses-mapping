@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Artistic-1.0-cl8.html",
+    "licenseId": "Artistic-1.0-cl8",
+    "name": "Artistic License 1.0 w/clause 8",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/Artistic-1.0"
+    ],
+    "synonyms": []
+}

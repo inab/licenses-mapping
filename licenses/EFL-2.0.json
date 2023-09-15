@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/EFL-2.0.html",
+    "licenseId": "EFL-2.0",
+    "name": "Eiffel Forum License v2.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.eiffel-nice.org/license/eiffel-forum-license-2.html",
+        "https://opensource.org/licenses/EFL-2.0"
+    ],
+    "synonyms": []
+}

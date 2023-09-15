@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/AMPAS.html",
+    "licenseId": "AMPAS",
+    "name": "Academy of Motion Picture Arts and Sciences BSD",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/BSD#AMPASBSD"
+    ],
+    "synonyms": []
+}

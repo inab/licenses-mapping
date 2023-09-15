@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/PHP-3.01.html",
+    "licenseId": "PHP-3.01",
+    "name": "PHP License v3.01",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.php.net/license/3_01.txt"
+    ],
+    "synonyms": []
+}

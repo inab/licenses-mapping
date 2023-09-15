@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/IEC-Code-Components-EULA.html",
+    "licenseId": "IEC-Code-Components-EULA",
+    "name": "IEC    Code Components End-user licence agreement",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.iec.ch/webstore/custserv/pdf/CC-EULA.pdf",
+        "https://www.iec.ch/CCv1",
+        "https://www.iec.ch/copyright"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/TPDL.html",
+    "licenseId": "TPDL",
+    "name": "Time::ParseDate License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://metacpan.org/pod/Time::ParseDate#LICENSE"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/Python-2.0.1.html",
+    "licenseId": "Python-2.0.1",
+    "name": "Python License 2.0.1",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.python.org/download/releases/2.0.1/license/",
+        "https://docs.python.org/3/license.html",
+        "https://github.com/python/cpython/blob/main/LICENSE"
+    ],
+    "synonyms": []
+}

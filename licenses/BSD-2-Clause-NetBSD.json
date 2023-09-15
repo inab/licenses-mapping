@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-2-Clause-NetBSD.html",
+    "licenseId": "BSD-2-Clause-NetBSD",
+    "name": "BSD 2-Clause NetBSD License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "http://www.netbsd.org/about/redistribution.html#default"
+    ],
+    "synonyms": []
+}

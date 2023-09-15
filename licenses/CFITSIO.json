@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CFITSIO.html",
+    "licenseId": "CFITSIO",
+    "name": "CFITSIO License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/c/f_user/node9.html"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Martin-Birgmeier.html",
+    "licenseId": "Martin-Birgmeier",
+    "name": "Martin Birgmeier License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/Perl/perl5/blob/blead/util.c#L6136"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.html",
+    "licenseId": "GPL-3.0-with-autoconf-exception",
+    "name": "GNU General Public License v3.0 w/Autoconf exception",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "https://www.gnu.org/licenses/autoconf-exception-3.0.html"
+    ],
+    "synonyms": []
+}

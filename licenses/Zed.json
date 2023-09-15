@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Zed.html",
+    "licenseId": "Zed",
+    "name": "Zed License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Zed"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-3-Clause-Modification.html",
+    "licenseId": "BSD-3-Clause-Modification",
+    "name": "BSD 3-Clause Modification",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing:BSD#Modification_Variant"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Newsletr.html",
+    "licenseId": "Newsletr",
+    "name": "Newsletr License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Newsletr"
+    ],
+    "synonyms": []
+}

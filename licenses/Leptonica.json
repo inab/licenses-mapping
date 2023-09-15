@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Leptonica.html",
+    "licenseId": "Leptonica",
+    "name": "Leptonica License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Leptonica"
+    ],
+    "synonyms": []
+}

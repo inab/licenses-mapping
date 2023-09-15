@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Xerox.html",
+    "licenseId": "Xerox",
+    "name": "Xerox License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Xerox"
+    ],
+    "synonyms": []
+}

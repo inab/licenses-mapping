@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/IJG.html",
+    "licenseId": "IJG",
+    "name": "Independent JPEG Group License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://dev.w3.org/cvsweb/Amaya/libjpeg/Attic/README?rev=1.2"
+    ],
+    "synonyms": []
+}

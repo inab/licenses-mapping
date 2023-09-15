@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/gSOAP-1.3b.html",
+    "licenseId": "gSOAP-1.3b",
+    "name": "gSOAP Public License v1.3b",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.cs.fsu.edu/~engelen/license.html"
+    ],
+    "synonyms": []
+}

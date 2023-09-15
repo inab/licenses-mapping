@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/eGenix.html",
+    "licenseId": "eGenix",
+    "name": "eGenix.com Public License 1.1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.egenix.com/products/eGenix.com-Public-License-1.1.0.pdf",
+        "https://fedoraproject.org/wiki/Licensing/eGenix.com_Public_License_1.1.0"
+    ],
+    "synonyms": []
+}

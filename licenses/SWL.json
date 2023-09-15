@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SWL.html",
+    "licenseId": "SWL",
+    "name": "Scheme Widget Library (SWL) Software License Agreement",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/SWL"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/dvipdfm.html",
+    "licenseId": "dvipdfm",
+    "name": "dvipdfm License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/dvipdfm"
+    ],
+    "synonyms": []
+}

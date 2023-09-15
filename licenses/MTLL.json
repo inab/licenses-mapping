@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/MTLL.html",
+    "licenseId": "MTLL",
+    "name": "Matrix Template Library License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/Matrix_Template_Library_License"
+    ],
+    "synonyms": []
+}

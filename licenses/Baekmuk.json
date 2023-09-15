@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Baekmuk.html",
+    "licenseId": "Baekmuk",
+    "name": "Baekmuk License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing:Baekmuk?rd=Licensing/Baekmuk"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/NetCDF.html",
+    "licenseId": "NetCDF",
+    "name": "NetCDF license",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.unidata.ucar.edu/software/netcdf/copyright.html"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OGDL-Taiwan-1.0.html",
+    "licenseId": "OGDL-Taiwan-1.0",
+    "name": "Taiwan Open Government Data License, version 1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://data.gov.tw/license"
+    ],
+    "synonyms": []
+}

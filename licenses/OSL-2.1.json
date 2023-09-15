@@ -1,0 +1,14 @@
+{
+    "reference": "https://spdx.org/licenses/OSL-2.1.html",
+    "licenseId": "OSL-2.1",
+    "name": "Open Software License 2.1",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://web.archive.org/web/20050212003940/http://www.rosenlaw.com/osl21.htm",
+        "https://opensource.org/licenses/OSL-2.1"
+    ],
+    "synonyms": [
+        "Open Software License v2.1"
+    ]
+}

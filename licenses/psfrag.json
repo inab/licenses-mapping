@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/psfrag.html",
+    "licenseId": "psfrag",
+    "name": "psfrag License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fedoraproject.org/wiki/Licensing/psfrag"
+    ],
+    "synonyms": []
+}

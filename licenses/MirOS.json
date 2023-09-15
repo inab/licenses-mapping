@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/MirOS.html",
+    "licenseId": "MirOS",
+    "name": "The MirOS Licence",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/MirOS"
+    ],
+    "synonyms": []
+}

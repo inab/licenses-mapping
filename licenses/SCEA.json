@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SCEA.html",
+    "licenseId": "SCEA",
+    "name": "SCEA Shared Source License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://research.scea.com/scea_shared_source_license.html"
+    ],
+    "synonyms": []
+}

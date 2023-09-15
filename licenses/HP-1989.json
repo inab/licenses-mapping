@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/HP-1989.html",
+    "licenseId": "HP-1989",
+    "name": "Hewlett-Packard 1989 License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/bleargh45/Data-UUID/blob/master/LICENSE"
+    ],
+    "synonyms": []
+}

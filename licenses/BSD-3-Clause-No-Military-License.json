@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/BSD-3-Clause-No-Military-License.html",
+    "licenseId": "BSD-3-Clause-No-Military-License",
+    "name": "BSD 3-Clause No Military License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://gitlab.syncad.com/hive/dhive/-/blob/master/LICENSE",
+        "https://github.com/greymass/swift-eosio/blob/master/LICENSE"
+    ],
+    "synonyms": []
+}

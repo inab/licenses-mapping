@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-BY-NC-SA-2.0-FR.html",
+    "licenseId": "CC-BY-NC-SA-2.0-FR",
+    "name": "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/by-nc-sa/2.0/fr/legalcode"
+    ],
+    "synonyms": []
+}

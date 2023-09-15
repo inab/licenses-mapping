@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/snprintf.html",
+    "licenseId": "snprintf",
+    "name": "snprintf License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2"
+    ],
+    "synonyms": []
+}

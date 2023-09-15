@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/GPL-1.0+.html",
+    "licenseId": "GPL-1.0+",
+    "name": "GNU General Public License v1.0 or later",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "https://www.gnu.org/licenses/old-licenses/gpl-1.0-standalone.html"
+    ],
+    "synonyms": []
+}

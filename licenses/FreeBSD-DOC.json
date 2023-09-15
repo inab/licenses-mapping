@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/FreeBSD-DOC.html",
+    "licenseId": "FreeBSD-DOC",
+    "name": "FreeBSD Documentation License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.freebsd.org/copyright/freebsd-doc-license/"
+    ],
+    "synonyms": []
+}

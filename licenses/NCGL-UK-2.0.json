@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/NCGL-UK-2.0.html",
+    "licenseId": "NCGL-UK-2.0",
+    "name": "Non-Commercial Government Licence",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/"
+    ],
+    "synonyms": []
+}

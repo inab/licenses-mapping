@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/APSL-2.0.html",
+    "licenseId": "APSL-2.0",
+    "name": "Apple Public Source License 2.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.opensource.apple.com/license/apsl/"
+    ],
+    "synonyms": []
+}

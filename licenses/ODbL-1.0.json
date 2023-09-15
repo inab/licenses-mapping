@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/ODbL-1.0.html",
+    "licenseId": "ODbL-1.0",
+    "name": "Open Data Commons Open Database License v1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.opendatacommons.org/licenses/odbl/1.0/",
+        "https://opendatacommons.org/licenses/odbl/1-0/"
+    ],
+    "synonyms": []
+}

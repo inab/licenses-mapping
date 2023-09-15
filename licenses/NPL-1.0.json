@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/NPL-1.0.html",
+    "licenseId": "NPL-1.0",
+    "name": "Netscape Public License v1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.mozilla.org/MPL/NPL/1.0/"
+    ],
+    "synonyms": []
+}

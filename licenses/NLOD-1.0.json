@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/NLOD-1.0.html",
+    "licenseId": "NLOD-1.0",
+    "name": "Norwegian Licence for Open Government Data (NLOD) 1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://data.norge.no/nlod/en/1.0"
+    ],
+    "synonyms": []
+}

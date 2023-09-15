@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/ImageMagick.html",
+    "licenseId": "ImageMagick",
+    "name": "ImageMagick License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.imagemagick.org/script/license.php"
+    ],
+    "synonyms": []
+}

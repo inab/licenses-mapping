@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/SMLNJ.html",
+    "licenseId": "SMLNJ",
+    "name": "Standard ML of New Jersey License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.smlnj.org/license.html"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Linux-man-pages-copyleft.html",
+    "licenseId": "Linux-man-pages-copyleft",
+    "name": "Linux man-pages Copyleft",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.kernel.org/doc/man-pages/licenses.html"
+    ],
+    "synonyms": []
+}

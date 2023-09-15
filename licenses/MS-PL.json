@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/MS-PL.html",
+    "licenseId": "MS-PL",
+    "name": "Microsoft Public License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.microsoft.com/opensource/licenses.mspx",
+        "https://opensource.org/licenses/MS-PL"
+    ],
+    "synonyms": []
+}

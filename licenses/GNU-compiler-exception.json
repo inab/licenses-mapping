@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/GNU-compiler-exception.html",
+    "licenseId": "GNU-compiler-exception",
+    "name": "GNU Compiler Exception",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://sourceware.org/git?p=binutils-gdb.git;a=blob;f=libiberty/unlink-if-ordinary.c;h=e49f2f2f67bfdb10d6b2bd579b0e01cad0fd708e;hb=HEAD#l19"
+    ],
+    "synonyms": []
+}

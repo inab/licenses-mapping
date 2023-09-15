@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/GFDL-1.2.html",
+    "licenseId": "GFDL-1.2",
+    "name": "GNU Free Documentation License v1.2",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": true,
+    "seeAlso": [
+        "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/Unicode-DFS-2016.html",
+    "licenseId": "Unicode-DFS-2016",
+    "name": "Unicode License Agreement - Data Files and Software (2016)",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.unicode.org/license.txt",
+        "http://web.archive.org/web/20160823201924/http://www.unicode.org/copyright.html#License",
+        "http://www.unicode.org/copyright.html"
+    ],
+    "synonyms": []
+}

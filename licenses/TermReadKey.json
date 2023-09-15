@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/TermReadKey.html",
+    "licenseId": "TermReadKey",
+    "name": "TermReadKey License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/jonathanstowe/TermReadKey/blob/master/README#L9-L10"
+    ],
+    "synonyms": []
+}

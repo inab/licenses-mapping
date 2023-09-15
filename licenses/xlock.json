@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/xlock.html",
+    "licenseId": "xlock",
+    "name": "xlock License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://fossies.org/linux/tiff/contrib/ras/ras2tif.c"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "https://spdx.org/licenses/ZPL-2.1.html",
+    "licenseId": "ZPL-2.1",
+    "name": "Zope Public License 2.1",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://old.zope.org/Resources/ZPL/"
+    ],
+    "synonyms": [
+        "ZPL 2.1"
+    ]
+}

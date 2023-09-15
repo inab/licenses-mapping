@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/ODC-By-1.0.html",
+    "licenseId": "ODC-By-1.0",
+    "name": "Open Data Commons Attribution License v1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opendatacommons.org/licenses/by/1.0/"
+    ],
+    "synonyms": []
+}

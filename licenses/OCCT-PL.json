@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OCCT-PL.html",
+    "licenseId": "OCCT-PL",
+    "name": "Open CASCADE Technology Public License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.opencascade.com/content/occt-public-license"
+    ],
+    "synonyms": []
+}

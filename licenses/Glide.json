@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Glide.html",
+    "licenseId": "Glide",
+    "name": "3dfx Glide License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.users.on.net/~triforce/glidexp/COPYING.txt"
+    ],
+    "synonyms": []
+}

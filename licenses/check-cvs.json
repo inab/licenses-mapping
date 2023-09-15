@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/check-cvs.html",
+    "licenseId": "check-cvs",
+    "name": "check-cvs License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://cvs.savannah.gnu.org/viewvc/cvs/ccvs/contrib/check_cvs.in?revision=1.1.4.3&view=markup&pathrev=cvs1-11-23#l2"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Net-SNMP.html",
+    "licenseId": "Net-SNMP",
+    "name": "Net-SNMP License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://net-snmp.sourceforge.net/about/license.html"
+    ],
+    "synonyms": []
+}

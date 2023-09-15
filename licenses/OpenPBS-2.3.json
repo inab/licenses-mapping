@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/OpenPBS-2.3.html",
+    "licenseId": "OpenPBS-2.3",
+    "name": "OpenPBS v2.3 Software License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/adaptivecomputing/torque/blob/master/PBS_License.txt",
+        "https://www.mcs.anl.gov/research/projects/openpbs/PBS_License.txt"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Xnet.html",
+    "licenseId": "Xnet",
+    "name": "X.Net License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/Xnet"
+    ],
+    "synonyms": []
+}

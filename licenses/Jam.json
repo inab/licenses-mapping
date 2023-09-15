@@ -1,0 +1,12 @@
+{
+    "reference": "https://spdx.org/licenses/Jam.html",
+    "licenseId": "Jam",
+    "name": "Jam License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://www.boost.org/doc/libs/1_35_0/doc/html/jam.html",
+        "https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README"
+    ],
+    "synonyms": []
+}

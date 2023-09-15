@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Sleepycat.html",
+    "licenseId": "Sleepycat",
+    "name": "Sleepycat License",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/Sleepycat"
+    ],
+    "synonyms": []
+}

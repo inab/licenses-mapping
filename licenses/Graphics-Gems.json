@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Graphics-Gems.html",
+    "licenseId": "Graphics-Gems",
+    "name": "Graphics Gems License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/erich666/GraphicsGems/blob/master/LICENSE.md"
+    ],
+    "synonyms": []
+}

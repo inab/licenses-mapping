@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/CC-PDDC.html",
+    "licenseId": "CC-PDDC",
+    "name": "Creative Commons Public Domain Dedication and Certification",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://creativecommons.org/licenses/publicdomain/"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/Ruby.html",
+    "licenseId": "Ruby",
+    "name": "Ruby License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.ruby-lang.org/en/LICENSE.txt"
+    ],
+    "synonyms": []
+}

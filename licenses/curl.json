@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/curl.html",
+    "licenseId": "curl",
+    "name": "curl License",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://github.com/bagder/curl/blob/master/COPYING"
+    ],
+    "synonyms": []
+}

@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OSL-1.0.html",
+    "licenseId": "OSL-1.0",
+    "name": "Open Software License 1.0",
+    "isOsiApproved": true,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "https://opensource.org/licenses/OSL-1.0"
+    ],
+    "synonyms": []
+}

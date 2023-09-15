@@ -1,0 +1,11 @@
+{
+    "reference": "https://spdx.org/licenses/OGL-UK-1.0.html",
+    "licenseId": "OGL-UK-1.0",
+    "name": "Open Government Licence v1.0",
+    "isOsiApproved": false,
+    "isDeprecatedLicenseId": false,
+    "seeAlso": [
+        "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/"
+    ],
+    "synonyms": []
+}
