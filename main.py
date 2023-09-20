@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Query, Path
 from utils import connect_db, License
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import Union
 from typing_extensions import Annotated
 from git import Repo
@@ -98,7 +98,7 @@ def update_db_from_files():
     return N
 
 class Payload(BaseModel):
-    state: str
+    state: str = Field(examples=["ping"])
 
 # Webhooks 
 @app.post("/webhooks")
