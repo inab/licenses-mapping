@@ -43,6 +43,7 @@
         "GPLversion2",
         "GNU GPL version 2",
         "GPL (== 2)",
-        "GPL version 2"
+        "GPL version 2",
+        "GPL-2.0"
     ]
 }
