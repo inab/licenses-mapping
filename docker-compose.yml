@@ -1,0 +1,8 @@
+version : "3.6"
+
+services :
+  license-mapping-app:
+    image: emartps/license-mapping-api:latest
+    container_name: license-mapping-app
+    ports:
+      - "8000:8000"
