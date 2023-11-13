@@ -9,6 +9,6 @@ jobs:
   webhook:
     runs-on: ubuntu-latest
     steps:
-      - run: curl -H "Content-Type:application/json" --data @data.json https://gitlab.bsc.es/inb/elixir/software-observatory/license-mapping-api/webhooks
+      - run: curl -H "Content-Type:application/json" --data @data.json https://observatory.openebench.bsc.es/licenses-mapping/webhooks
       
    
