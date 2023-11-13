@@ -7,16 +7,11 @@ A tool to map strings to SPDX licenses names or IDs.
 
 [API Documentation]()
 
-
-
-## dev
-Start the server with:
-```python
-python3 -m uvicorn main:app --reload
-``` 
-
 ## Licenses Data
 SPDX licenses metadata and synonyms are stored in the files of the `data` directory. The database is generated and updated from these files. The update is triggered by commmits being pushed to `main` branch. 
+
+### 🙌🏻 Contribution to licenses synonyms 
+To contribute to the licenses synonyms, please edit the files in the `data` directory and submit a pull request.
 
 ## Webhooks 
 The API is configured to listen to the following webhooks:
@@ -40,3 +35,10 @@ update:
       - licenses/*
       when: on_success
 ```
+
+
+## Development
+Start the server with:
+```python
+python3 -m uvicorn main:app --reload
+``` 
