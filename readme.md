@@ -5,7 +5,8 @@
 ## Overview
 A tool to map strings to SPDX licenses names or IDs. 
 
-[API Documentation](https://observatory.openebench.bsc.es/licenses-mapping/docs)
+📄 [API Documentation](https://observatory.openebench.bsc.es/licenses-mapping/docs)
+🐳 [Docker image](https://hub.docker.com/repository/docker/emartps/license-mapping-api/general)
 
 ## Licenses Data
 SPDX licenses metadata and synonyms are stored in the files of the `licenses` directory. The database is generated and updated from these files. The update is triggered by commmits being pushed to `main` branch. 
