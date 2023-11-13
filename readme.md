@@ -19,7 +19,7 @@ The API is configured to listen to the following webhooks:
 - `ping`: ping the server
 
 ## CI - Database Update 
-The database is updated by the following CI workflow:
+The database is updated by the following GitLab CI workflow:
 ```yaml
 stages:
   - webhook
