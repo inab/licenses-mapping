@@ -4,5 +4,7 @@ services :
   license-mapping-app:
     image: emartps/license-mapping-api:latest
     container_name: license-mapping-app
+    env_file:
+      - .env
     ports:
       - "8000:8000"
