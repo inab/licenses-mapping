@@ -20,6 +20,7 @@ The API is configured to listen to the following webhooks:
 
 ## CI - Database Update 
 The database is updated by the following GitLab CI workflow:
+
 ```yaml
 stages:
   - webhook

@@ -3,10 +3,13 @@ from utils import connect_db, License
 from pydantic import BaseModel, Field
 from typing import Union
 from typing_extensions import Annotated
+from dotenv import load_dotenv
 from git import Repo
 import json
 import os
 
+# Load environment variables
+load_dotenv()
 
 app = FastAPI(
     title="License Mapping API",
@@ -31,7 +34,7 @@ def read_license(
     license_id: str = Path(
         title="License ID",
         description="The SPDX ID of the license",
-        example="AGPL-3.0-only",
+        examples="AGPL-3.0-only",
         )
     ):
     '''
@@ -48,7 +51,7 @@ def read_license_synonyms(
     license_id: str = Path(
         title="License ID",
         description="The SPDX ID of the license",
-        example="AGPL-3.0-only",
+        examples="AGPL-3.0-only",
         )
     ):
     # Connect to the database
@@ -62,7 +65,7 @@ def map_license_string(
     q: str = Query(
         title="License string",
         description="The license string to be mapped.",
-        example="GNU General Public License, version 2",
+        examples="GNU General Public License, version 2",
         )
     ):
     '''
@@ -112,7 +115,7 @@ def webhooks(
         # Pull changes from the remote repository
         repo = Repo("./")
         origin = repo.remotes.origin
-        origin.pull()
+        origin.pull('main')
 
         # Update the database
         N = update_db_from_files()

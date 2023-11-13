@@ -78,9 +78,26 @@ def populate_db_from_files():
     Used for the initial population of the database
     '''
     # Connect to the database
-    client = MongoClient('localhost', 27017)
-    db = client['licenses']
-    collection = db['licenses']
+    # variables come from .env file
+    mongoHost = os.getenv('MONGO_HOST', default='localhost')
+    mongoPort = os.getenv('MONGO_PORT', default='27017')
+    mongoUser = os.getenv('MONGO_USER')
+    mongoPass = os.getenv('MONGO_PWD')
+    mongoAuthSrc = os.getenv('MONGO_AUTH_SRC')
+    mongoDb = os.getenv('MONGO_DB', default='oeb-research-software')
+    mongoCollection = os.getenv('MONGO_COLLECTION', default='licenses-mapping')
+
+    # Connect to MongoDB
+    mongoClient = MongoClient(
+        host=mongoHost,
+        port=int(mongoPort),
+        username=mongoUser,
+        password=mongoPass,
+        authSource=mongoAuthSrc,
+    )
+    db = mongoClient[mongoDb]
+    collection = db[mongoCollection]
+
     # Open each file and populate the database
     for file in os.listdir("../licenses/"):
         with open(f"../licenses/{file}", "r") as f:
@@ -100,6 +117,6 @@ def populate_db_from_files():
 if __name__ == "__main__":
     #create_files()
     #populate_files_from_spreadsheet()
-    #populate_db_from_files()
+    populate_db_from_files()
     #print(modified_files("../"))
-    pass
+    #pass
