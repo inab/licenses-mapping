@@ -9,6 +9,6 @@ jobs:
   webhook:
     runs-on: ubuntu-latest
     steps:
-      - run: curl -H "Content-Type:application/json" --data @data.json https://observatory.openebench.bsc.es/licenses-mapping/webhooks
+      - run: curl -H "Content-Type:application/json" --data '{"state":"updated"}' https://observatory.openebench.bsc.es/licenses-mapping/webhooks
       
    
