@@ -31,7 +31,7 @@ stages:
 update:
   stage: webhook
   variables:
-    DEPLOY_CURL_COMMAND: 'curl -H "Content-Type: application/json" --data @data.json https://396e-84-88-188-229.ngrok-free.app/webhooks'
+    DEPLOY_CURL_COMMAND: 'curl -H "Content-Type: application/json" --data @data.json https://gitlab.bsc.es/inb/elixir/software-observatory/license-mapping-api/webhooks'
   script:
     - 'eval "$DEPLOY_CURL_COMMAND"'
   rules:
