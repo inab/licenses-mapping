@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Query, Path
+from fastapi.middleware.cors import CORSMiddleware
 from utils import connect_db, License
 from pydantic import BaseModel, Field
 from typing import Union
@@ -24,6 +25,16 @@ app = FastAPI(
         "url": "https://www.apache.org/licenses/LICENSE-2.0.html",
     },
     root_path="/licenses-mapping"
+)
+
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 @app.get("/")
