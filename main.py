@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from git import Repo
 import json
 import os
+import urllib.parse
 
 # Load environment variables
 load_dotenv()
@@ -86,7 +87,8 @@ def map_license_string(
     # Connect to the database
     collection = connect_db()
     # Get the license
-    license = collection.find_one({ "$or": [ { "licenseId": q }, { "synonyms": q } ] }, {"_id": 0, "reference": 1, "licenseId":1, "name":1, "isOsiApproved": 1, "isDeprecatedLcenseId":1, "seeAlso":1 } )
+    decoded_q = urllib.parse.unquote(q)
+    license = collection.find_one({ "$or": [ { "licenseId": decoded_q }, { "synonyms": decoded_q } ] }, {"_id": 0, "reference": 1, "licenseId":1, "name":1, "isOsiApproved": 1, "isDeprecatedLcenseId":1, "seeAlso":1 } )
 
     return license
 
@@ -145,3 +147,6 @@ def webhooks(
     else:
         return payload
     
+if __name__ == '__main__':
+    import uvicorn
+    uvicorn.run(app, host='0.0.0.0', port=3200, log_level='debug')
