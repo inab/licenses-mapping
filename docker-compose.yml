@@ -2,7 +2,7 @@ version : "3.6"
 
 services :
   license-mapping-app:
-    image: emartps/license-mapping-api:latest
+    image: emartps/license-mapping-api:main
     container_name: license-mapping-app
     volumes:
       - /home/user/.ssh/authorized_keys:/root/.ssh/id_rsa
