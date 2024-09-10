@@ -127,8 +127,11 @@ def webhooks(
     '''
     if payload.state == 'updated':
         # Pull changes from the remote repository
+        GITHUB_TOKEN=os.getenv("GITHUB_TOKEN")
+        url_with_token = f'https://{GITHUB_TOKEN}@github.com/your-username/your-repo.git'
         repo = Repo("./")
         origin = repo.remotes.origin
+        origin.set_url(url_with_token)
         origin.pull('main')
 
         # Update the database
