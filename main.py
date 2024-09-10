@@ -125,6 +125,7 @@ def webhooks(
     '''
     This function receives a webhook
     '''
+    os.environ['GIT_PYTHON_GIT_EXECUTABLE'] = '/usr/local/bin/git'
     if payload.state == 'updated':
         # Pull changes from the remote repository
         repo = Repo("./")
