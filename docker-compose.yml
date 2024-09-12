@@ -5,7 +5,7 @@ services :
     image: emartps/license-mapping-api:main
     container_name: license-mapping-app
     volumes:
-      - /home/user/.ssh/authorized_keys:/root/.ssh/id_rsa
+      - /home/user/.ssh/:/root/.ssh/
     env_file:
       - .env
     ports:
