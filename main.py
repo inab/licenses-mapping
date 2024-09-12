@@ -127,8 +127,9 @@ def webhooks(
     '''
     if payload.state == 'updated':
         # Pull changes from the remote repository
-        GITHUB_TOKEN=os.getenv("GITHUB_TOKEN")
-        url = f"https://evamart:{GITHUB_TOKEN}@github.com/inab/licenses-mapping.git"
+        # GITHUB_TOKEN=os.getenv("GITHUB_TOKEN")
+        #url = f"https://evamart:{GITHUB_TOKEN}@github.com/inab/licenses-mapping.git"
+        url = "git@github.com:inab/licenses-mapping.git"
         repo = Repo("./")
         origin = repo.remotes.origin
         origin.set_url(url)
