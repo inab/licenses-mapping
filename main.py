@@ -56,7 +56,7 @@ def read_license(
     # Connect to the database
     collection = connect_db()
     # Get the license
-    license = collection.find_one({"licenseId": license_id}, {"_id": 0, "reference": 1, "licenseId":1, "name":1, "isOsiApproved": 1, "isDeprecatedLcenseId":1, "seeAlso":1 })
+    license = collection.find_one({"licenseId": license_id}, {"_id": 0, "reference": 1, "licenseId":1, "name":1, "isOsiApproved": 1, "isDeprecatedLicenseId":1, "seeAlso":1 })
     return license
 
 @app.get("/licenses/{license_id}/synonyms")
@@ -88,7 +88,7 @@ def map_license_string(
     collection = connect_db()
     # Get the license
     decoded_q = urllib.parse.unquote(q)
-    license = collection.find_one({ "$or": [ { "licenseId": decoded_q }, { "synonyms": decoded_q } ] }, {"_id": 0, "reference": 1, "licenseId":1, "name":1, "isOsiApproved": 1, "isDeprecatedLcenseId":1, "seeAlso":1 } )
+    license = collection.find_one({ "$or": [ { "licenseId": decoded_q }, { "synonyms": decoded_q } ] }, {"_id": 0, "reference": 1, "licenseId":1, "name":1, "isOsiApproved": 1, "isDeprecatedLicenseId":1, "seeAlso":1 } )
 
     return license
 
